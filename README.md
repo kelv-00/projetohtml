@@ -1,48 +1,52 @@
-# ScarLinks
+<h1 align="center"> DevLinks </h1>
 
-Bem-vindo ao projeto ScarLinks, uma landing page moderna e elegante criada para centralizar os principais links e redes sociais da Scar Brand em um único lugar.
+<p align="center">
+Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
+</p>
 
-## ✨ O que é este projeto?
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-ScarLinks é uma página de bio estilizada, pensada para oferecer uma experiência visual limpa, responsiva e atrativa. Ela reúne links para blog, ebooks, redes sociais e conteúdos da marca, com um design moderno e interface amigável.
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-## 🎨 Recursos principais
+<br>
 
-- Tema claro e escuro com alternância dinâmica
-- Layout responsivo para desktop e mobile
-- Estilo visual moderno com efeitos de hover e blur
-- Links diretos para conteúdos e plataformas sociais
-- Interface simples e fácil de personalizar
+<p align="center">
+  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+</p>
 
-## 🛠️ Tecnologias utilizadas
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
 - Git e Github
 - Figma
 
-## 📁 Estrutura do projeto
+## 💻 Projeto
 
-- index.html: estrutura da página
-- style.css: estilos, responsividade e tema
-- script.js: lógica para alternar entre os modos claro e escuro
-- assets/: imagens e arquivos visuais do projeto
+O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-## ▶️ Como executar
+- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
 
-1. Clone este repositório em sua máquina.
-2. Abra o arquivo index.html em seu navegador.
-3. Se preferir, pode usar uma extensão como Live Server para visualizar em tempo real.
+- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
-## 💡 Personalização
+## 🔖 Layout
 
-Você pode ajustar facilmente:
+Você pode visualizar o layout do projeto original através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-- os links da página
-- as imagens e branding
-- as cores e o estilo visual
-- os textos de descrição e rodapé
+## :memo: Licença
 
-## 👤 Autor
+Esse projeto está sob a licença MIT.
 
-Projeto desenvolvido com carinho pela equipe da Scar Brand.
+---
+
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
